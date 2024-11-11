@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
-Andrew Yin
+Andrew Yin and Hunter Brownell
 anyin@ucsd.edu
